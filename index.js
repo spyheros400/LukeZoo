@@ -138,7 +138,7 @@ if (reversed == null) { reversed = false; }
 		/*
 		Loads the URL in a new browser window.
 		*/
-		window.open('https://spyheros400.github.io/LukeZoo.github.io/Mapindex.html', '_blank');
+		window.open('Mapindex.html', '_blank');
 		});
 		
 		
